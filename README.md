@@ -1,10 +1,8 @@
 ---
 description: Welcome to ah Liu's document
 ---
-
+ 
 # 欢迎页面
-您将可以游览到啊溜创建的所有文档：
-
 
 
 {% hint style="info" %}
