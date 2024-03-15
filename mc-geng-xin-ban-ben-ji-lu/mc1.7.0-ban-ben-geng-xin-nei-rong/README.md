@@ -2,11 +2,11 @@
 
 ## 【更新】1.7.0版本更新公告：暑期新版本
 
-#### 更新版本：1.7.0 更新时间：2024-3-14 更新内容：
+#### 更新版本：1.7.0 更新时间：2021-12-23 更新内容：
 
 新内容
 
-#### 游戏内容\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=2\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=2)]
+#### 游戏内容
 
 [记分板](https://zh.minecraft.wiki/w/%E8%AE%B0%E5%88%86%E6%9D%BF)系统
 
@@ -14,7 +14,7 @@
 * 追踪、编辑和显示每个玩家的特定项目。
 * 通过使用`/`[`scoreboard`](https://zh.minecraft.wiki/w/%E5%91%BD%E4%BB%A4/scoreboard)命令或者命令方块进行触发。
 
-#### 命令格式\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=3\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=3)]
+#### 命令格式
 
 `/`[`scoreboard`](https://zh.minecraft.wiki/w/%E5%91%BD%E4%BB%A4/scoreboard)
 
@@ -24,15 +24,15 @@
 
 * 加入`commandblocksenabled`规则。
 
-#### 常规\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=4\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=4)]
+#### 常规
 
 [精选服务器](https://zh.minecraft.wiki/w/%E7%B2%BE%E9%80%89%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
 * 加入了_The Hive_服务器。
 
-### 更改\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=5\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=5)]
+### 更改
 
-#### 物品\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=6\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=6)]
+#### 物品
 
 常规
 
@@ -42,7 +42,7 @@
 
 * 从自然分类移动到物品分类。
 
-#### 常规\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=7\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=7)]
+#### 常规
 
 [聊天](https://zh.minecraft.wiki/w/%E8%81%8A%E5%A4%A9)
 
@@ -58,7 +58,7 @@
 * “邀请好友”按钮被加入到设置里玩家列表的底部。
 * 地图名称现在会显示在玩家列表的顶部。
 
-### 修复\[[编辑](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?section=8\&veaction=edit) | [编辑源代码](https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%881.7.0?action=edit\&section=8)]
+### 修复
 
 修复了77个漏洞
 
