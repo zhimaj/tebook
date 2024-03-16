@@ -265,4 +265,6 @@ UI
 * 修复了自定义几何立方体模型的轴心点问题。
 * 修复了一个导致被驯服的实体伤害被算作来自骑乘玩家的错误。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="mc1.14.1-ban-ben-geng-xin.md">mc1.14.1-ban-ben-geng-xin.md</a></td></tr><tr><td></td><td></td><td></td><td><a href="mc1.14.2-ban-ben-geng-xin.md">mc1.14.2-ban-ben-geng-xin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1">MC1.14.1版本补丁更新</a></td><td></td><td></td><td><a href="mc1.14.1-ban-ben-geng-xin.md">mc1.14.1-ban-ben-geng-xin.md</a></td></tr><tr><td>MC1.14.2版本补丁更新</td><td></td><td></td><td><a href="mc1.14.2-ban-ben-geng-xin.md">mc1.14.2-ban-ben-geng-xin.md</a></td></tr><tr><td>MC1.14.3版本补丁更新</td><td></td><td></td><td><a href="mc1.14.3-ban-ben-geng-xin.md">mc1.14.3-ban-ben-geng-xin.md</a></td></tr><tr><td>MC1.14.4版本新内容更新</td><td></td><td></td><td><a href="mc1.14.4-ban-ben-geng-xin.md">mc1.14.4-ban-ben-geng-xin.md</a></td></tr></tbody></table>
+
+[^1]: MC1.14.1版本补丁更新：修复、优化
